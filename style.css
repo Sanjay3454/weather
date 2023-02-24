@@ -1,0 +1,17 @@
+#card1{
+    background:#000000d0
+}
+body{
+    background-image:url('./images/pexels-tahir-shaw-186980.jpg') ;
+}
+#Weather{
+    background-color: black;
+    color: white;
+    outline: none;
+}
+
+#Weather::placeholder{
+
+    color: white;
+    opacity: 0.5;
+}
